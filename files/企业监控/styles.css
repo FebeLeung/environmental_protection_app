@@ -3614,3 +3614,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u255 {
+  border-width:0px;
+  position:absolute;
+  left:154px;
+  top:0px;
+  width:90px;
+  height:36px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
