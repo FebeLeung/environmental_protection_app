@@ -11,6 +11,9 @@
 }
 ._图片 {
 }
+.checkbox {
+  text-align:left;
+}
 .placeholder {
 }
 .primary_button {
@@ -123,6 +126,18 @@
 ._图片1 {
   color:#000000;
 }
+._文本段落1 {
+  text-align:left;
+}
+._形状2 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 .label {
   font-family:'Microsoft YaHei UI';
   font-weight:400;
@@ -149,6 +164,10 @@
   font-size:24px;
   text-align:left;
 }
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
 .shape {
 }
 .box_2 {
@@ -157,6 +176,15 @@
 }
 .image {
   color:#000000;
+}
+.vertical_line {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .text_link {
   color:#0000FF;
@@ -168,7 +196,7 @@
 .html_button {
   text-align:center;
 }
-._文本段落1 {
+._文本段落2 {
   font-family:'Microsoft YaHei UI';
   font-weight:400;
   font-style:normal;
@@ -210,7 +238,7 @@
 }
 ._鼠标按下文本链接时 {
 }
-.label1 {
+.label2 {
   font-size:14px;
   text-align:left;
 }
